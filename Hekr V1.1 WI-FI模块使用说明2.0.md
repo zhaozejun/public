@@ -20,8 +20,6 @@
 
 **R1、R2阻值可为1kΩ~100kΩ**
 
-<br></br>
-
 - **接线说明：**
 
 WIFI模块的RXD、TXD引脚分别接到USB转TTL串口硬件工具的TXD、RXD引脚
@@ -73,12 +71,6 @@ WIFI模块的RXD、TXD引脚分别接到USB转TTL串口硬件工具的TXD、RXD�
 
 ### **4.1设置串口调试助手**
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 打开友善串口调试助手，点击“以后注册”，按下图进行设置
 ![](http://i.imgur.com/Vs3FuDO.png)<br>
@@ -93,8 +85,6 @@ WIFI模块的RXD、TXD引脚分别接到USB转TTL串口硬件工具的TXD、RXD�
 1.设备配置成功后进入控制界面：
 
 ![](http://i.imgur.com/2mGPLaO.png)
-<br>
-<br>
 
 2.在演示功能界面上点击<span style="color:red;">开关按钮</span>及<span style="color:red;">档位调节按钮</span>，或者<span style="color:red;">滑动进度条</span>，在PC端串口调试助手会收到对应操作的协议帧。例如：
 
@@ -123,19 +113,6 @@ APP成功下发有效数据后，在串口调试助手中可收到相应的协�
 编辑页面分为上下两部分，上半部分对应演示页面的状态显示部分：![](http://i.imgur.com/mPLWxFW.png)
 
 编辑页面上半部分由状态名称和对应协议数据上报位组成，点击添加状态可一直添加状态条目，点击右侧红点可删除对应状态条目。
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 编辑页面下半部分对应演示页面的操作部分：![](http://i.imgur.com/6cCqr1t.png)
 
@@ -176,18 +153,6 @@ APP成功下发有效数据后，在串口调试助手中可收到相应的协�
 - 模块串口高电平为3.3V，低电平为0V。若需要5V-3.3V电平转换，可参考如下电路：
 
  ![](http://i.imgur.com/DYXWDKM.png)
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ##6、联系我们
 
